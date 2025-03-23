@@ -2,7 +2,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=H4YI3R%20GITHUB&fontSize=90" />
 </div>
-🚀 Studying List<br>
+<div align="center">
+  <h1>🚀 Studying List</h1>
+</div>
 
 <div align="center">
 🚀 Skill<br>
