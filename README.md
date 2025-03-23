@@ -2,7 +2,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=H4YI3R%20GITHUB&fontSize=90" />
 </div>
-<img src="http://mazandi.herokuapp.com/api?handle=hay1er&theme=dark"/>
 🚀 Studying List<br>
 
 🚀 Skill<br>
@@ -27,5 +26,5 @@
 ![](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
 
-
+<img src="http://mazandi.herokuapp.com/api?handle=hay1er&theme=dark"/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?H4YI3R=anuraghazra&layout=compact)
