@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=H4YI3R%20GITHUB&fontSize=90" />
 </div>
-<img src="http://mazandi.herokuapp.com/api?handle=H4YI3R&theme=dark"/>
+<img src="http://mazandi.herokuapp.com/api?handle=hay1er&theme=dark"/>
 🚀 Studying List<br>
 
 🚀 Skill<br>
