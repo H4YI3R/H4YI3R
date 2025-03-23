@@ -25,7 +25,4 @@
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
-
 <img src="http://mazandi.herokuapp.com/api?handle=hay1er&theme=dark"/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?H4YI3R=anuraghazra&layout=compact)
