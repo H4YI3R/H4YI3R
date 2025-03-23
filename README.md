@@ -1,5 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=H4YI3R%20GITHUB&fontSize=90)
-
+<!--타이틀 부분-->
+<div align="center">
+  ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=H4YI3R%20GITHUB&fontSize=90)
+</div>
 ======================================== Study ========================================<br>
 🚀 Skills<br>
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
