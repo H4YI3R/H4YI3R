@@ -1,8 +1,10 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=250&section=header&text=<H4YI3R GITHUB>&fontSize=90&animation=fadeIn"/>
 </div>
+
 ======================================== Study ========================================<br>
+
 🚀 Skills<br>
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
